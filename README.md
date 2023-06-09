@@ -5,3 +5,6 @@ A fox starves if it is surrounded by over 5 other foxes, or if there are no rabb
 A rabbit starves if there is no grass nearby; a rabbit is eaten if there is fox nearby and there are more or equal numbers of foxes than rabbits in the neighborhood; a rabbit dies after 3 world-cycles.
 Grass is replaced by a new rabbit, if the grass nearby totals more than twice the number of rabbits nearby; and if grass nearby is more than rabbits nearby then it remains else it dies out.
 An empty square produces a new fox if more than two rabbits are nearby; else a new rabbit if more than four grass squares are nearby; else some new grass if there is any grass nearby.
+# Output
+<img width="569" alt="image" src="https://github.com/Akuskea/WorldSimulation/assets/102030185/f5e80857-a956-4bae-9005-c4bfcd3cf670">
+
